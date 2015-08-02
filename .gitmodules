@@ -1,0 +1,3 @@
+[submodule "lib/tool"]
+	path = lib/tool
+	url = https://github.com/TeaEntityLab/teaTool.git
